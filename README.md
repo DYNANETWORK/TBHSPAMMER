@@ -1,29 +1,14 @@
-<p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
-</p>
-<h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
-</h1>
-
-[![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
-[![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/Spambot)   
-----
- 
-- [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 Bots in One time 🔥
-- [x] Deploy Using Bot Token 
-
-# Deploy on heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/BOT-SPAM)
+#SPAMBOT2.0
 
 
-# Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+[![SPAM 𝙱𝙾𝚃 ℓσgσ](https://telegra.ph/file/7fffb9dfeb730ba2e0781.jpg)](https://t.me/MAMBAXSPAMMER)
+<h3> ∂єρℓογ το нєяοκυ </h3>😾🐜MAMBA 🐧🐯
 
-# Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Ustad-op](https://github.com/Ustad-Op)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/SPAMBOT2.0)
+<p><a href=https://github.com/SUKHPAL443/SPAMBOT2.0> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
+[.](https://heroku.com/deploy)
+Credits - [SUKHI](https://t.me/SUKHI_MR_HACKER)
+
+# TELEGRAM
+Check me on [TELEGRAM](https://t.me/SUKHI_MR_HACKER)
