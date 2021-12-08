@@ -13,3 +13,4 @@ Credits - [SUKHI](https://t.me/SUKHI_MR_HACKER)
 
 # TELEGRAM
 Check me on [TELEGRAM](https://t.me/SUKHI_MR_HACKER)
+[![ME ON TELEGRAM](https://www.telegeam.org/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/sukhi_mr_hacker)
