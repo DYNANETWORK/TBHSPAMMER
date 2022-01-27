@@ -22,8 +22,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("SPAMBOT2.0 Spam Successfully deployed -!")
-print("Enjoy! Do visit SPAMBOT2.0 OWNER- @SUKHI_MR_HACKER")
+print("TBH SPAMMERS Spam Successfully deployed -!")
+print("Enjoy! Do visit TBH SPAMBOT OWNER- @Cazador_op")
 
 if __name__ == "__main__":
     Riz.run_until_disconnected()
