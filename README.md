@@ -5,8 +5,8 @@
 <h3> ∂єρℓογ το нєяοκυ </h3>
 <h4>😾🐜 THE BROTHER HOOD 🐧🐯</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/THEBROTHERHOODSPAMMERS)
-<p><a href=https://github.com/SUKHPAL443/THEBROTHERHOODSPAMMERS> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/TBHSPAMMER)
+<p><a href=https://github.com/SUKHPAL443/TBHSPAMMER> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 [.](https://heroku.com/deploy)
 ### Credits - 
