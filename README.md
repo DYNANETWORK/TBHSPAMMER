@@ -1,16 +1,19 @@
-<h1>😾🐜 SPAMBOT2.0 🐧🐯</h2>
+<h1>😾🐜 THE BROTHER HOOD 🐧🐯</h2>
 
 
-[![SPAM 𝙱𝙾𝚃 ℓσgσ](https://telegra.ph/file/7fffb9dfeb730ba2e0781.jpg)](https://t.me/MAMBAXSPAMMER)
+[![SPAM 𝙱𝙾𝚃 ℓσgσ](https://telegra.ph/file/ef6efd684ecddabd3e8f8.jpg)](https://t.me/TBH_NETWORK)
 <h3> ∂єρℓογ το нєяοκυ </h3>
-<h4>😾🐜 SPAMBOT2.0 🐧🐯</h4>
+<h4>😾🐜 THE BROTHER HOOD 🐧🐯</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/SPAMBOT2.0)
-<p><a href=https://github.com/SUKHPAL443/SPAMBOT2.0> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/THEBROTHERHOODSPAMMERS)
+<p><a href=https://github.com/SUKHPAL443/THEBROTHERHOODSPAMMERS> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 [.](https://heroku.com/deploy)
-Credits - [SUKHI](https://t.me/SUKHI_MR_HACKER)
+### Credits - 
+[SUKHI](https://t.me/BLACKMAMBA_OFFICIAL)
+[JATIN](https://t.me/Cazador_op)
+  
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/SUKHI_MR_HACKER)
-[![ME ON TELEGRAM](https://www.telegeam.org/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/sukhi_mr_hacker)
+Check me on [TELEGRAM](https://t.me/BLACKMAMBA_OFFICIAL)
+[![ME ON TELEGRAM](https://www.telegeam.org/deploy/button.svg)](https://heroku.com/deploy?template=https://t.me/BLACKMAMBA_OFFICIAL)
